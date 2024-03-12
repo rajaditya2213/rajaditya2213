@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw04yZEKmj3w0SOEpgIh9ugR&ust=1710341647901000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCI6ab97oQDFQAAAAAdAAAAABBB)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F511299363945129063%2F&psig=AOvVaw21aBfbuNsK7FKf7wayT1Gv&ust=1710343002718000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjX1qyC74QDFQAAAAAdAAAAABAR)]
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
