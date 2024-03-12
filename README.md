@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif)]
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
