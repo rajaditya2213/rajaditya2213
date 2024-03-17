@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Vue, Node js**
+- 💬 Ask me about **React.js, Javascript**
 
 - 📫 How to reach me **adityaraj2201arya@gmail.com**
 
